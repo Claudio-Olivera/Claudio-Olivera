@@ -3,9 +3,6 @@
  
 
 
-
-
-
 <ul>
 <li> 👀 I’m interested in learning new technologies 🤖 </li>
 <li>📚 I’m currently learning React and Angular </li>
