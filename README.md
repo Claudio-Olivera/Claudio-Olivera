@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" style="max-width: 100%;" alt="Claudio-Olivera's GitHub stats" >
  
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
