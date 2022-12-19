@@ -22,7 +22,7 @@
 
  
  
- [![Claudio-Olivera GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only)](https://github.com/Claudio-Olivera/github-readme-stats)
+ [![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only)](https://github.com/Claudio-Olivera/github-readme-stats)
 
 
 
