@@ -19,7 +19,7 @@
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Olivera&layout=compact&card_width=800&theme=radical&hide_border=false" />
 </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
  
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera)](https://github.com/anuraghazra/github-readme-stats)
