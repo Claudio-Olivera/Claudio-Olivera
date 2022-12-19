@@ -19,10 +19,10 @@
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Olivera&layout=compact&card_width=800&theme=radical&hide_border=false" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" style="max-width: 100%;" alt="Claudio-Olivera's GitHub stats" >
+
  
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+ [![Claudio-Olivera GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only)](https://github.com/Claudio-Olivera/github-readme-stats)
 
 
 
