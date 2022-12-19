@@ -19,6 +19,9 @@
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Olivera&layout=compact&card_width=800&theme=radical&hide_border=false" />
 </div>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera)](https://github.com/anuraghazra/github-readme-stats)
 
 
