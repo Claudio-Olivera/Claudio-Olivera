@@ -19,5 +19,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Olivera&layout=compact&card_width=600&theme=dark#gh-dark-mode-onlyl&hide_border=false" />
 
  
- [![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;card_width=635&amp;theme=dark#gh-dark-mode-only)](https://github.com/Claudio-Olivera/github-readme-stats)
+ [![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Olivera&amp;show_icons=true&amp;card_width=640&amp;theme=dark#gh-dark-mode-only)](https://github.com/Claudio-Olivera/github-readme-stats)
 
