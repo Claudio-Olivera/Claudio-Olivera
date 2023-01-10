@@ -21,6 +21,7 @@
     "glenn2223.live-sass",
     "syler.sass-indented",
     "humao.rest-client",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "redhat.vscode-yaml"
   ]
 }
