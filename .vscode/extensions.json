@@ -4,6 +4,23 @@
     "ysemeniuk.emmet-live",
     "github.github-vscode-theme",
     "ritwickdey.liveserver",
-    "dzhavat.bracket-pair-toggler"
+    "dzhavat.bracket-pair-toggler",
+    "wallabyjs.quokka-vscode",
+    "sketchbuch.vsc-quokka-statusbar",
+    "dineug.vuerd-vscode",
+    "pkief.material-icon-theme",
+    "eamodio.gitlens",
+    "donjayamanne.python-extension-pack",
+    "angular.ng-template",
+    "dsznajder.es7-react-js-snippets",
+    "yzhang.markdown-all-in-one",
+    "dbaeumer.vscode-eslint",
+    "astro-build.astro-vscode",
+    "formulahendry.auto-rename-tag",
+    "anteprimorac.html-end-tag-labels",
+    "glenn2223.live-sass",
+    "syler.sass-indented",
+    "humao.rest-client",
+    "bradlc.vscode-tailwindcss"
   ]
 }
