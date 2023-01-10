@@ -11,7 +11,7 @@
   "editor.tabSize": 2,
   // ZOOM DEL EDITOR 
   "window.zoomLevel": 1,
-  // SI EL CODIGO ES DEMASIADO LARGO, BAJARÁ SIN CAMBIAR DE NUMERO DE LINEA
+  // SI EL CODIGO ES DEMASIADO LARGO, BAJARA PERO SIN CAMBIAR DE NUMERO DE LINEA
   "editor.wordWrap": "on",
   // EMMET AHORA FUNCIONA EN ARCHIVOS JS/REACT
   "emmet.includeLanguages": {
