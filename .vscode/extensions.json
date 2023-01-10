@@ -22,6 +22,7 @@
     "syler.sass-indented",
     "humao.rest-client",
     "bradlc.vscode-tailwindcss",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "rangav.vscode-thunder-client"
   ]
 }
