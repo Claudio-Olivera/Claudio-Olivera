@@ -13,9 +13,14 @@
   "window.zoomLevel": 1,
   // SI EL CODIGO ES DEMASIADO LARGO, BAJARA PERO SIN CAMBIAR DE NUMERO DE LINEA
   "editor.wordWrap": "on",
-  // EMMET AHORA FUNCIONA EN ARCHIVOS JS/REACT
+  // EMMET CONFIG
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.useInlineCompletions": true,
+  "emmet.triggerExpansionOnTab": true,
+  // EMMET AHORA FUNCIONA EN ARCHIVOS JS/REACT Y ASTRO
   "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
+      "javascript": "javascriptreact",
+      "astro": "html"
   },
   // PARA OBTENER MEJORA VISUAL DE LOS ICONOS POR DEFECTO
   "workbench.iconTheme": "material-icon-theme",
