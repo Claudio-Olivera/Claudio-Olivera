@@ -18,6 +18,10 @@
       "javascript": "javascriptreact"
   },
   // PARA OBTENER MEJORA VISUAL DE LOS ICONOS POR DEFECTO
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  // PARA DAR LAS LIGADURAS A LA FUENTE CASCADIA CODE
+  "editor.fontLigatures": true,
+  // LAS FUENTES A USAR EN EL EDITOR
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace"
 
 }
